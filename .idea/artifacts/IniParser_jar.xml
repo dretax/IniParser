@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="IniParser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IniParser_jar</output-path>
+    <root id="archive" name="IniParser.jar">
+      <element id="module-output" name="IniParser" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-cli-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/ini4j-0.5.2-SNAPSHOT.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
