@@ -9,24 +9,35 @@ java -jar IniParser.jar -h
 
 Parameters:
 
-*-h Show help.
-*-m Specify mode: del/set/add (Delete Required Section and Key)
-*-i Write the given ID to the inifile
-*-p Direct path to the ini file
-*-s Specify the Section if necessary
-*-v Specify the Value if necessary
-*-f File name
+-h Show help.
+
+-m Specify mode: del/set/add (Delete Required Section and Key)
+
+-i Write the given ID to the inifile
+
+-p Direct path to the ini file
+
+-s Specify the Section if necessary
+
+-v Specify the Value if necessary
+
+-f File name
 
 Parameter Explanations:
 
 The program always defines the default values.
 
-*-i = Must be defined.
-*-m = Must be defined.
-*-s = Section is the [Whitelist] by default. You can give something else if you want.
-*-v = Value is the 1 after the = mark by default. You can change this also if you want. (Not really recommending if you use my whitelist plugin though, so you shouldn't edit the -s or the -v)
-*-p = The directory where you are running the program by default. You are able to change this too.
-*-f = File's name. It's Whitelist.ini by default.
+-i = Must be defined.
+
+-m = Must be defined.
+
+-s = Section is the [Whitelist] by default. You can give something else if you want.
+
+-v = Value is the 1 after the = mark by default. You can change this also if you want. (Not really recommending if you use my whitelist plugin though, so you shouldn't edit the -s or the -v)
+
+-p = The directory where you are running the program by default. You are able to change this too.
+
+-f = File's name. It's Whitelist.ini by default.
 
 Examples:
 
