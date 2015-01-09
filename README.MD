@@ -46,4 +46,4 @@ Output:
 
 No code changes again, you just changed path of the ini file. The file will be located at the given path, and not at the location of the jar file.
 
-Basically all the parameters have a default value, except the -i. I hope It will work, I remember I had problems with PHP  when I wanted to write in the Magma's inifile, and Magma couldn't read the file. Java is almost the same as C#, so I hope the C# parser is similar to Java. We will know when you give a feedback.
+Basically all the parameters have a default value, except the -i. I hope It will work, I remember I had problems with PHP  when I wanted to write in the Magma's inifile, and Magma couldn't read the file.
